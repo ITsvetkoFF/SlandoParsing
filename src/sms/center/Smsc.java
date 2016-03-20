@@ -13,6 +13,8 @@ public class Smsc {
 
     String SMSC_LOGIN    = "A3a3el";     // логин клиента
     String SMSC_PASSWORD = "7887aaf4f28ecda2bf60f3c3ee95d3b1";  // пароль или MD5-хеш пароля в нижнем регистре
+    // Типа пользуйтесь все???? :) 
+    
     boolean SMSC_HTTPS   = false;         // использовать HTTPS протокол
     String SMSC_CHARSET  = "utf-8";       // кодировка сообщения: koi8-r, windows-1251 или utf-8 (по умолчанию)
     boolean SMSC_DEBUG   = false;         // флаг отладки
